@@ -1,37 +1,133 @@
-## Welcome to GitHub Pages
+# [ربات تلگرامی ثبت آگهی با پایتون](https://github.com/MSFPT/fa_ads_telegram_bot)
 
-You can use the [editor on GitHub](https://github.com/MSFPT/fa_ads_telegram_bot/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+[#fa_ads_telegram_bot](https://github.com/msfpt/fa_ads_telegram_bot)
+[#pytelegrambotapi](https://github.com/msfpt/fa_ads_telegram_bot)
+[#telebot](https://github.com/msfpt/fa_ads_telegram_bot)
+[#python3](https://github.com/msfpt/fa_ads_telegram_bot)
+[#python](https://github.com/msfpt/fa_ads_telegram_bot)
+[#telegram-bot](https://github.com/msfpt/fa_ads_telegram_bot)
+[#telegram](https://github.com/msfpt/fa_ads_telegram_bot)
+[#robot](https://github.com/msfpt/fa_ads_telegram_bot)
+[#bot](https://github.com/msfpt/fa_ads_telegram_bot)
+[#ads](https://github.com/msfpt/fa_ads_telegram_bot)
+[#inline-button](https://github.com/msfpt/fa_ads_telegram_bot)
+[#keyboard-button](https://github.com/msfpt/fa_ads_telegram_bot)
+[#windows](https://github.com/msfpt/fa_ads_telegram_bot)
+[#linux](https://github.com/msfpt/fa_ads_telegram_bot)
+[#mac](https://github.com/msfpt/fa_ads_telegram_bot)
+[#jsonbase](https://github.com/msfpt/fa_ads_telegram_bot)
+[#json](https://github.com/msfpt/fa_ads_telegram_bot)
+[#http](https://github.com/msfpt/fa_ads_telegram_bot)
+[#api](https://github.com/msfpt/fa_ads_telegram_bot)
+[#msfpt](https://github.com/msfpt) 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<br>
 
-### Markdown
+## نکات مهم
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+شما می بایست قبل از ران کردن این بات تغییراتی در فایل
 
-```markdown
-Syntax highlighted code block
+`__main__.py`
 
-# Header 1
-## Header 2
-### Header 3
+ایجاد کنید.
 
-- Bulleted
-- List
+<br>
 
-1. Numbered
-2. List
+### دریافت و تنظیم توکن ربات
 
-**Bold** and _Italic_ and `Code` text
+شما باید توکن ربات خود را از ربات تلگرامی
 
-[Link](url) and ![Image](src)
+[@BotFather](https://t.me/BotFather)
+
+گرفته و در خط **یازدهم** بجای متن "...TOKEN..." قرار بدهید.
+
+<br>
+
+### دریافت و تنظیم آیدی عددی ادمین
+
+شما برای دریافت آیدی عددی خود باید به ربات تلگرامی
+
+[@UserInfoBot](https://t.me/userinfobot)
+
+پیامی بدهید.
+
+سپس  این ربات اطلاعاتی از شما را براتان میفرستد که آیدی عددی شما هم در آنهاست.
+
+شما می بایست آیدی عددی خود در خط **دوازدهم** بجای آیدی عددی پیشفرض قرار دهید.
+
+**شما همچنین میتوانید چند ادمین برای ربات تعیین کنید.**
+
+<br>
+
+### چنل ثبت آگهی ها و همون چنل اسپانسر
+
+شما نیاز به چنلی دارید که آگهی کاربران در اون ثبت بشه. و همچنین اسپانسر و عضویت اجباری ربات شما باشه.
+
+این چنل باید پابلیک و با قابلیت فوروارد باشه.
+همچنین شما باید ربات رو در این چنل بصورت کامل ادمین کنید.
+
+شما باید یوزرنیم این چنل رو بدون کارکتر **@** در خط **سیزدهم** و بجای متن "...channel_username..." قرار بدهید.
+
+<br>
+<br>
+
+## آموزش اجرای اسکریپت و ران کردن ربات.
+
+از اونجایی که پیامرسان تلگرام برای ایرانی ها فیلتر هستش.
+اگر شما میخواهید روی سیستم خودتون ربات رو ران کنید باید یک **VPN** خوب نصب و فعال کرده باشید تا به مشکل نخورید.
+
+و اگر میخواهید بات روی یک سرور ران کنید. من بهتون پیشنهاد میکنم سرورش برای کشور هایی که به تلگرام دسترسی دارند باشه.
+
+سرور شما باید از پایتون ورژن 3.7 و بالاتر پشتیبانی کنه.
+
+این اسکریپت روی سرور های ویندوزی و ... هم اجرا میشه
+
+ولی بنده پیشنهاد میکنم رو یک سرور لینوکسی اجراش کنید.
+
+برای اجرای ربات کافیه که گیت(git) از قبل نصب کرده باشه و شما با دستور:
+
+```bash
+git clone https://github.com/MSFPT/fa_ads_telegram_bot.git
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+میتوانید اسکریپت ها رو کلون کنید.
 
-### Jekyll Themes
+سپس شما به کتابخونه **telebot** یا همون **pyTelegramBotAPI** نیاز دارید.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MSFPT/fa_ads_telegram_bot/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+من این کتابخونه رو در کنار سورس قرار دادم
 
-### Support or Contact
+ولی اگر به مشکل **ImportError** در فراخوانی اون بر خوردید میتوانید با استفاده از دستور:
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+```bash
+python3 -m pip install -r requirements.txt
+```
+
+آخرین نسخه اون رو نصب کنید.
+
+پس انجام تمامی مراحل شما با دستور:
+
+```bash
+python3 fa_ads_telegram_bot
+```
+
+میتوانید ربات خودتون رو ران کنید.
+
+<br>
+
+این اسکریپت ها دیباگ و تست شده هستند.
+
+اما اگر به مشکلی خوردید خوشحال میشم اگر اون رو در **[این بخش](https://github.com/MSFPT/fa_ads_telegram_bot/issues)** مطرح کنید.
+
+بنده بزودی برای رفع اون مشکل پاسخ شما رو خواهم داد.
+
+امیدوارم این ربات تلگرامی به کارتون بیاد.
+
+همچنین خوشحال میشم اگه از این ربات خوشتون اومد به این ریپوزیتوری یه **[star](https://github.com/MSFPT/fa_ads_telegram_bot/stargazers/)** نا قابل بدید.
+
+همچنین عزیزانی که مشتاق به همکاری و توسعه این ربات هستند
+
+میتونن با ارسال **[پول ریکوئست](https://github.com/MSFPT/fa_ads_telegram_bot/pulls)** هاشون به بنده کمک کنن 😉
+
+<br>
+
+موفق و موید باشید.
