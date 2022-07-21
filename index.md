@@ -1,25 +1,5 @@
-# [ربات تلگرامی ثبت آگهی با پایتون](https://github.com/MSFPT/fa_ads_telegram_bot)
+# [fa_ads_telegram_bot](https://github.com/MSFPT/fa_ads_telegram_bot)
 
-[#fa_ads_telegram_bot](https://github.com/msfpt/fa_ads_telegram_bot)
-[#pytelegrambotapi](https://github.com/msfpt/fa_ads_telegram_bot)
-[#telebot](https://github.com/msfpt/fa_ads_telegram_bot)
-[#python3](https://github.com/msfpt/fa_ads_telegram_bot)
-[#python](https://github.com/msfpt/fa_ads_telegram_bot)
-[#telegram-bot](https://github.com/msfpt/fa_ads_telegram_bot)
-[#telegram](https://github.com/msfpt/fa_ads_telegram_bot)
-[#robot](https://github.com/msfpt/fa_ads_telegram_bot)
-[#bot](https://github.com/msfpt/fa_ads_telegram_bot)
-[#ads](https://github.com/msfpt/fa_ads_telegram_bot)
-[#inline-button](https://github.com/msfpt/fa_ads_telegram_bot)
-[#keyboard-button](https://github.com/msfpt/fa_ads_telegram_bot)
-[#windows](https://github.com/msfpt/fa_ads_telegram_bot)
-[#linux](https://github.com/msfpt/fa_ads_telegram_bot)
-[#mac](https://github.com/msfpt/fa_ads_telegram_bot)
-[#jsonbase](https://github.com/msfpt/fa_ads_telegram_bot)
-[#json](https://github.com/msfpt/fa_ads_telegram_bot)
-[#http](https://github.com/msfpt/fa_ads_telegram_bot)
-[#api](https://github.com/msfpt/fa_ads_telegram_bot)
-[#msfpt](https://github.com/msfpt) 
 
 <br>
 
@@ -131,3 +111,29 @@ python3 fa_ads_telegram_bot
 <br>
 
 موفق و موید باشید.
+
+<br>
+
+<hr>
+
+
+[#fa_ads_telegram_bot](https://github.com/msfpt/fa_ads_telegram_bot)
+[#pytelegrambotapi](https://github.com/msfpt/fa_ads_telegram_bot)
+[#telebot](https://github.com/msfpt/fa_ads_telegram_bot)
+[#python3](https://github.com/msfpt/fa_ads_telegram_bot)
+[#python](https://github.com/msfpt/fa_ads_telegram_bot)
+[#telegram-bot](https://github.com/msfpt/fa_ads_telegram_bot)
+[#telegram](https://github.com/msfpt/fa_ads_telegram_bot)
+[#robot](https://github.com/msfpt/fa_ads_telegram_bot)
+[#bot](https://github.com/msfpt/fa_ads_telegram_bot)
+[#ads](https://github.com/msfpt/fa_ads_telegram_bot)
+[#inline-button](https://github.com/msfpt/fa_ads_telegram_bot)
+[#keyboard-button](https://github.com/msfpt/fa_ads_telegram_bot)
+[#windows](https://github.com/msfpt/fa_ads_telegram_bot)
+[#linux](https://github.com/msfpt/fa_ads_telegram_bot)
+[#mac](https://github.com/msfpt/fa_ads_telegram_bot)
+[#jsonbase](https://github.com/msfpt/fa_ads_telegram_bot)
+[#json](https://github.com/msfpt/fa_ads_telegram_bot)
+[#http](https://github.com/msfpt/fa_ads_telegram_bot)
+[#api](https://github.com/msfpt/fa_ads_telegram_bot)
+[#msfpt](https://github.com/msfpt) 
