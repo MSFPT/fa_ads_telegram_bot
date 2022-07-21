@@ -1,8 +1,5 @@
 # ربات تلگرامی ثبت آگهی با پایتون
 
-[fa_ads_telegram_bot | ربات تلگرامی ثبت آگهی با پایتون](https://github.com/MSFPT/fa_ads_telegram_bot)
-
-
 <br>
 
 ## نکات مهم
